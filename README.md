@@ -23,17 +23,17 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               1 min               █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-VS Code                  1 hr 50 mins        █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 💻 운영 체제들: 
 이번 주에 활동은 없어요.
 ```
 
 
- Last Updated on 02/07/2026 19:02:55 UTC
+ Last Updated on 03/07/2026 20:00:21 UTC
 <!--END_SECTION:waka-->
 
 </div>
