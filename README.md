@@ -3,7 +3,7 @@
 <br />
 
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C083%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C083%20hrs%2013%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-264%20hrs%2013%20mins-blue?style=flat)
 
@@ -12,10 +12,10 @@
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     262 commits         █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
-🌆 낮　                     632 commits         ███████████░░░░░░░░░░░░░░   44.89 % 
-🌃 저녁                     388 commits         ███████░░░░░░░░░░░░░░░░░░   27.56 % 
-🌙 밤　                     126 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+🌞 아침                     265 commits         █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
+🌆 낮　                     636 commits         ███████████░░░░░░░░░░░░░░   44.95 % 
+🌃 저녁                     388 commits         ███████░░░░░░░░░░░░░░░░░░   27.42 % 
+🌙 밤　                     126 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
 ```
 
 
@@ -25,16 +25,17 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 1 min               █████████████████████░░░░   84.44 % 
-YAML                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Other                    9 mins              ███████████████████░░░░░░   74.01 % 
+Markdown                 1 min               ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+TSConfig                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 🔥 에디터들: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+VS Code                  13 mins             █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Mac                      1 min               █████████████████████████   100.00 % 
+Mac                      13 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -44,7 +45,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 28/07/2026 20:02:54 UTC
+ Last Updated on 29/07/2026 19:53:59 UTC
 <!--END_SECTION:waka-->
 
 </div>
