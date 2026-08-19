@@ -12,10 +12,10 @@
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     763 commits         ████████░░░░░░░░░░░░░░░░░   31.19 % 
-🌆 낮　                     810 commits         ████████░░░░░░░░░░░░░░░░░   33.12 % 
-🌃 저녁                     731 commits         ███████░░░░░░░░░░░░░░░░░░   29.89 % 
-🌙 밤　                     142 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+🌞 아침                     767 commits         ████████░░░░░░░░░░░░░░░░░   31.27 % 
+🌆 낮　                     814 commits         ████████░░░░░░░░░░░░░░░░░   33.18 % 
+🌃 저녁                     730 commits         ███████░░░░░░░░░░░░░░░░░░   29.76 % 
+🌙 밤　                     142 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
 ```
 
 
@@ -25,48 +25,47 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-JavaScript               1 hr 13 mins        ███████░░░░░░░░░░░░░░░░░░   28.17 % 
-YAML                     42 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-SSH Config               41 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Python                   35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-CSS                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+CSS                      23 mins             ███████░░░░░░░░░░░░░░░░░░   26.81 % 
+HTML                     19 mins             █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
+SSH Config               13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Bash                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+JavaScript               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
 
 🔥 에디터들: 
-Claude Code              2 hrs 34 mins       ███████████████░░░░░░░░░░   59.64 % 
-Codex Vscode             1 hr 19 mins        ████████░░░░░░░░░░░░░░░░░   30.65 % 
-VS Code                  25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+Claude Code              53 mins             ███████████████░░░░░░░░░░   59.38 % 
+Codex Vscode             25 mins             ███████░░░░░░░░░░░░░░░░░░   28.92 % 
+VS Code                  10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
 
 💻 운영 체제들: 
-Mac                      4 hrs 19 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 29 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 19 mins (99.97%)
+⏱ AI Coding Time: 1 hr 29 mins (99.92%)
 
-✍️ 3,073 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,453 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,055,556 Input Tokens, 263,828 Output Tokens
+🔤 567,369 Input Tokens, 128,630 Output Tokens
 
-💵 $32.57 Estimated AI Cost This Week
+💵 $9.85 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 75 AI Prompts
+🧠 7 AI Sessions, 27 AI Prompts
 
-Opus                     1,760 lines         ██████████████░░░░░░░░░░░   57.09 % 
-GPT                      1,184 lines         ██████████░░░░░░░░░░░░░░░   38.40 % 
-Codex-Vscode             139 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+Opus                     1,559 lines         ████████████████░░░░░░░░░   63.37 % 
+GPT                      901 lines           █████████░░░░░░░░░░░░░░░░   36.63 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,339 characters per prompt
+📚 Verbose Prompter — average 3,876 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 18/08/2026 19:09:07 UTC
+ Last Updated on 19/08/2026 19:04:51 UTC
 <!--END_SECTION:waka-->
 
 </div>
