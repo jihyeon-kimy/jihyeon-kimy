@@ -12,10 +12,10 @@
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     827 commits         ████████░░░░░░░░░░░░░░░░░   31.27 % 
-🌆 낮　                     902 commits         █████████░░░░░░░░░░░░░░░░   34.10 % 
-🌃 저녁                     751 commits         ███████░░░░░░░░░░░░░░░░░░   28.39 % 
-🌙 밤　                     165 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+🌞 아침                     827 commits         ████████░░░░░░░░░░░░░░░░░   31.18 % 
+🌆 낮　                     907 commits         █████████░░░░░░░░░░░░░░░░   34.20 % 
+🌃 저녁                     753 commits         ███████░░░░░░░░░░░░░░░░░░   28.39 % 
+🌙 밤　                     165 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
 ```
 
 
@@ -25,41 +25,23 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               14 mins             █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-Claude Code              12 mins             ███████████████████████░░   91.34 % 
-VS Code                  1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+이번 주에 활동은 없어요.
 
 💻 운영 체제들: 
-Mac                      14 mins             █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 mins (100.0%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 43,471 Input Tokens, 19,529 Output Tokens
-
-💵 $2.08 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 6 AI Prompts
-
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 48 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 31/08/2026 23:00:37 UTC
+ Last Updated on 01/09/2026 21:15:29 UTC
 <!--END_SECTION:waka-->
 
 </div>
