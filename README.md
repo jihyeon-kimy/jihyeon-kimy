@@ -12,10 +12,10 @@
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     927 commits         ███████░░░░░░░░░░░░░░░░░░   28.10 % 
-🌆 낮　                     1278 commits        ██████████░░░░░░░░░░░░░░░   38.74 % 
-🌃 저녁                     906 commits         ███████░░░░░░░░░░░░░░░░░░   27.46 % 
-🌙 밤　                     188 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+🌞 아침                     924 commits         ███████░░░░░░░░░░░░░░░░░░   28.18 % 
+🌆 낮　                     1264 commits        ██████████░░░░░░░░░░░░░░░   38.55 % 
+🌃 저녁                     901 commits         ███████░░░░░░░░░░░░░░░░░░   27.48 % 
+🌙 밤　                     190 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
 ```
 
 
@@ -25,40 +25,23 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Other                    1 min               █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-Claude Code              1 min               ████████████████░░░░░░░░░   65.44 % 
-VS Code                  0 secs              █████████░░░░░░░░░░░░░░░░   34.56 % 
+이번 주에 활동은 없어요.
 
 💻 운영 체제들: 
-Mac                      1 min               █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 min (100.0%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 20,942 Input Tokens, 2,984 Output Tokens
-
-💵 $0.42 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 106 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 21/09/2026 22:09:30 UTC
+ Last Updated on 22/09/2026 21:36:47 UTC
 <!--END_SECTION:waka-->
 
 </div>
